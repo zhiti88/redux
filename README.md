@@ -1,2 +1,2 @@
-# refux
+# redux
 redux dummyjson
